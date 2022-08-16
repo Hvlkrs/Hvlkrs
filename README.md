@@ -14,7 +14,7 @@ I am 🚀 from Berlin, currently, I'm not working. I like problem finding and so
 
 ### 🤝 Connect with me:
 
-<a href="hhttps://www.linkedin.com/in/hivel-krasniqi/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Hivel Krasniqi | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/hivel-krasniqi/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Hivel Krasniqi | LinkedIn" width="21px"/></a>
 <a href="https://hivelkrasniqi.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Hivel Krasniqi | Medium" width="21px"/></a>
 
 </br>
