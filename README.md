@@ -10,7 +10,7 @@ Hi there, I'm Hivel 👋
 I'm a DevOps Engineer 💻!
 </h2> 
 
-I am 🚀 from Berlin, currently, I'm not working. I like problem finding and solving enthusiast. Beside's technology, I enjoy drawing and doing yoga!
+I am from Berlin 🚀. I like problem finding and solving enthusiast. Beside's technology, I enjoy drawing and doing yoga!
 
 ### 🤝 Connect with me:
 
