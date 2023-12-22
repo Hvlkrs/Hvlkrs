@@ -1,5 +1,5 @@
-<p align="center">
-  <a href=[Copy of Black and Gold Tech Website Developer LinkedIn Banner] target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/94534363/184966033-a5afcc31-1296-498e-95ac-ff4d87f56d0a.png"
+<p align="center">                                                                            
+<a href=[Copy of Black and Gold Tech Website Developer LinkedIn Banner] target="_blank" rel="noreferrer"><img src="https://github.com/Hvlkrs/hvlkrs/blob/main/Copy%20of%20Black%20and%20Gold%20Tech%20Website%20Developer%20LinkedIn%20Banner.png"
 </p>
 
 <h3 align="center">
