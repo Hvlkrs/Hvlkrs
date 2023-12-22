@@ -3,16 +3,16 @@
 </p>
 
 <h3 align="center">
-Hi there, I'm Hivel 👋
+👋 Hello, World! I'm Hivel, a Software Development Engineer in Test (SDET) with a knack for ensuring that software is not only functional but also robust and reliable.
+
 </h3>
 
-<h2 align="center">
-I'm a DevOps Engineer 💻!
-</h2> 
+🚀 **Professional Journey:**
+- Currently working as an SDET, ensuring the quality and integrity of software through automated testing.
+- Passionate about creating resilient test frameworks and ensuring efficient test automation.
 
-I am from Berlin 🚀. I like problem finding and solving. Beside's technology, I enjoy drawing and doing yoga!
 
-### 🤝 Connect with me:
+🌐 **Connect with Me:**
 
 <a href="https://www.linkedin.com/in/hivel-krasniqi/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Hivel Krasniqi | LinkedIn" width="21px"/></a>
 <a href="https://hivelkrasniqi.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Hivel Krasniqi | Medium" width="21px"/></a>
@@ -20,10 +20,11 @@ I am from Berlin 🚀. I like problem finding and solving. Beside's technology, 
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
-## 🔭 I'm currently working on
+📚 **Continuous Learning:**
+- Always exploring new technologies and methodologies in the testing world.
+- Currently delving into teaching project.
 
-- My Shell Scripting skills
-- My Python skills
+Let's collaborate, automate, and innovate! 🚀✨
 
 
 ## Tools
