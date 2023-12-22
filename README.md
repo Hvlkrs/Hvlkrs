@@ -7,9 +7,11 @@
 
 </h3>
 
+
 🚀 **Professional Journey:**
 - Currently working as an SDET, ensuring the quality and integrity of software through automated testing.
 - Passionate about creating resilient test frameworks and ensuring efficient test automation.
+
 
 
 🌐 **Connect with Me:**
@@ -18,6 +20,7 @@
 <a href="https://hivelkrasniqi.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Hivel Krasniqi | Medium" width="21px"/></a>
 
 </br>
+
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 📚 **Continuous Learning:**
